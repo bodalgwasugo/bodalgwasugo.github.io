@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodalgwasugo.github.io/sitemap.xml
